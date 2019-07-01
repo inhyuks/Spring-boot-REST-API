@@ -1,6 +1,6 @@
 사용환경
 
-intellij
+eclipse
 Spring boot2
 Swagger
 mysql
